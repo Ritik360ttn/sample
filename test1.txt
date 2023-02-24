@@ -3,6 +3,4 @@ welcome to bootcamp jvm 2023 ;
 <<<<<<< HEAD
 Main Branch
 
-=======
-brach1 !
->>>>>>> branch1
+hello
