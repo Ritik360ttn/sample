@@ -1,2 +1,1 @@
-Welcome to ttn world
-bootcamp 2023
+hello world 1
